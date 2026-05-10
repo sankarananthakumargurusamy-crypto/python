@@ -1,0 +1,6 @@
+print("The addition of two numbers")
+num1=10
+num2=20
+print("The number1: ",num1)
+print("The number2: ",num2)
+print("The addition: ",num1+num2)
