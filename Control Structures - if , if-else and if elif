@@ -1,0 +1,8 @@
+if (age<18):
+    print("Children")
+elif(age<35):
+    print("Adult")
+elif(age<59):
+    print("Citizen")
+else:
+    print("Senior Citizen")
