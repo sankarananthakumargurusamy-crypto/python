@@ -1,3 +1,4 @@
+age=int(input("Enter Age:"))
 if (age<18):
     print("Children")
 elif(age<35):
